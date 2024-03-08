@@ -1,4 +1,4 @@
-
+@Get
 Feature: Validate Get Place API is working as expected
 
   Background: : Creating Data for Add Place API to validate Get Place
